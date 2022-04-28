@@ -1,0 +1,29 @@
+<img src="por2.png" alt="">
+        <h1>Por</h1>
+        <p class="cena">6,23zl</p>
+        <p>Cena za kilogram</p>
+        <p><button>Dodaj do koszyka</button></p>
+        <div class="produkt">
+            <img src="por2.png" alt="">
+            <h1>Por</h1>
+            <p class="cena">6,23zl</p>
+            <p>Cena za kilogram</p>
+            <p><button>Dodaj do koszyka</button></p>
+            <div class="produkt">
+                <img src="por2.png" alt="">
+                <h1>Por</h1>
+                <p class="cena">6,23zl</p>
+                <p>Cena za kilogram</p>
+                <p><button>Dodaj do koszyka</button></p>
+                <div class="produkt">
+                    <img src="por2.png" alt="">
+                    <h1>Por</h1>
+                    <p class="cena">6,23zl</p>
+                    <p>Cena za kilogram</p>
+                    <p><button>Dodaj do koszyka</button></p>
+                    <div class="produkt">
+                        <img src="por2.png" alt="">
+                        <h1>Por</h1>
+                        <p class="cena">6,23zl</p>
+                        <p>Cena za kilogram</p>
+                        <p><button>Dodaj do koszyka</button></p>

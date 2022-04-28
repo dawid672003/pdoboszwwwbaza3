@@ -1,0 +1,9 @@
+<form action="login.php" method="post">
+    <input type="text" name="user" placeholder="Login">
+    <input type="password" name="password" placeholder="Hasło">
+    <input type="submit" value="Zaloguj">
+    </form>
+
+<form action="logout.php" method="get">
+<input type="submit" value="wyloguj">
+    </form>
